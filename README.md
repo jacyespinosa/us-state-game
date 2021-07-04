@@ -12,5 +12,5 @@ This app is great for learning!
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/80412098/124374629-df322800-dc51-11eb-939b-c41987b6fc6d.png">
 
 - Example of the state's names that I did not guess correctly.
-<img width="369" alt="image" src="https://user-images.githubusercontent.com/80412098/124374638-f07b3480-dc51-11eb-814b-c6a3a23ee92f.png">
+<img width="277" alt="image" src="https://user-images.githubusercontent.com/80412098/124374658-1accf200-dc52-11eb-8072-26690d6e4dbc.png">
 Screenshot of the "states_to_learn.csv" file.
