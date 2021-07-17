@@ -14,3 +14,6 @@ This app is great for learning!
 - Example of the state's names that I did not guess correctly.
 <img width="277" alt="image" src="https://user-images.githubusercontent.com/80412098/124374658-1accf200-dc52-11eb-8072-26690d6e4dbc.png">
 Screenshot of the "states_to_learn.csv" file.
+
+<img width="1194" alt="Screen Shot 2021-07-17 at 12 51 25 AM" src="https://user-images.githubusercontent.com/80412098/126030239-957bf8c8-53b5-4fca-a072-02486545f5b7.png">
+Screenshot of the states with the X and Y coordinates.
